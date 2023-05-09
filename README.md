@@ -12,7 +12,9 @@
 
 > O projeto foi solicitado para criação de uma Landing page para apresentar a empresa Soul Logística, seguindo os padrões da apresentação da empresa, este README contém os arquivos e referências de criação para o projeto, portanto serve como documentação caso seja necessário algum suporte para ela.
 
-![[SCR-20230509-lcpd.jpeg]]
+![social](https://github.com/marlonfrade/project-soul-landing/assets/84466506/1f3a5e6e-7cbc-40cc-b1d9-d8d520bd202f)
+
+
 
 # 🗄️ Documentos e Referências
 
