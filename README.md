@@ -1,14 +1,3 @@
----
-uuid: 20230305103019
-created: 2023-03-05T10:30:19
-last-modified: 2023-03-29T22:21:27
-alias: projects-monkey-lp-soul-logistica
-autor: marlon-frade
-tags:
-  - projects/monkey/soul-logistica
-  - blog/posts/projects/monkey/landing-page/soul-logistica
----
-
 # 👋 Olá Dev
 
 ![GitHub repo size](https://img.shields.io/github/repo-size/marlonfrade/project-soul-landing?style=for-the-badge)
